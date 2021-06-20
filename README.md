@@ -1,2 +1,2 @@
 # pcfg_final_project
-My final project in Advanced Computational Linguistics, from 2019.
+My final project in Advanced Computational Linguistics, from 2019. I created a Probabilistic Context-free Grammar Parser, based on the probabilisitc CKY algorithm. This was basically my first real project in Python, so the code is a bit convoluted; but, hey, it worked. This parser relies on a tiny grammar and lexicon; by adding rules to the grammar.txt file and additional sentences to the data.txt file, these can be expanded and tested.
